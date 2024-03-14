@@ -1,7 +1,7 @@
 # osTicketPostConfig
 
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src= "https://github.com/josemiguel-nunez/osticket-prereqs/assets/163205170/8fef7bdb-1d4e-49c6-a3df-5568bb1db650" height="80%" width="80%" />
 </p>
 
 <h1>osTicket - Post Configuration Setup</h1>
